@@ -74,12 +74,16 @@ Original data(first five columns):
 Data after dropping unwanted columns(first five):
 ![the Logistic Regression Model to Predict the Placement Status of Student](o2.png)
 Checking the presence of null values: 
+
 ![the Logistic Regression Model to Predict the Placement Status of Student](o3.png)
 Checking the presence of duplicated values: 
+
 ![the Logistic Regression Model to Predict the Placement Status of Student](o4.png)
 Data after Encoding: 
+
 ![the Logistic Regression Model to Predict the Placement Status of Student](o5.png)
 X Data: 
+
 ![the Logistic Regression Model to Predict the Placement Status of Student](o6.png)
 Y Data: 
 ![the Logistic Regression Model to Predict the Placement Status of Student](o7.png)
