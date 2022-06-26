@@ -82,8 +82,8 @@ Checking the presence of duplicated values:
 Data after Encoding: 
 
 ![the Logistic Regression Model to Predict the Placement Status of Student](o5.png)
-X Data: 
 
+X Data: 
 ![the Logistic Regression Model to Predict the Placement Status of Student](o6.png)
 Y Data: 
 
