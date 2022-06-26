@@ -79,15 +79,16 @@ Checking the presence of null values:
 Checking the presence of duplicated values: 
 
 ![the Logistic Regression Model to Predict the Placement Status of Student](o4.png)
+
 Data after Encoding: 
 
 ![the Logistic Regression Model to Predict the Placement Status of Student](o5.png)
-
 X Data: 
 ![the Logistic Regression Model to Predict the Placement Status of Student](o6.png)
 Y Data: 
 
 ![the Logistic Regression Model to Predict the Placement Status of Student](o7.png)
+
 Predicted Values: 
 
 ![the Logistic Regression Model to Predict the Placement Status of Student](o8.png)
