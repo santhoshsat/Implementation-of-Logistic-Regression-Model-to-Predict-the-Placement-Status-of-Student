@@ -75,40 +75,31 @@ Data after dropping unwanted columns(first five):
 ![the Logistic Regression Model to Predict the Placement Status of Student](o2.png)
 
 Checking the presence of null values: 
-
 ![the Logistic Regression Model to Predict the Placement Status of Student](o3.png)
 
 Checking the presence of duplicated values: 
-
 ![the Logistic Regression Model to Predict the Placement Status of Student](o4.png)
 
 Data after Encoding: 
-
 ![the Logistic Regression Model to Predict the Placement Status of Student](o5.png)
 X Data: 
 ![the Logistic Regression Model to Predict the Placement Status of Student](o6.png)
 Y Data: 
-
 ![the Logistic Regression Model to Predict the Placement Status of Student](o7.png)
 
 Predicted Values: 
-
 ![the Logistic Regression Model to Predict the Placement Status of Student](o8.png)
 
 Accuracy Score: 
-
 ![the Logistic Regression Model to Predict the Placement Status of Student](o9.png)
 
 Confusion Matrix: 
-
 ![the Logistic Regression Model to Predict the Placement Status of Student](o10.png)
 
 Classification Report: 
-
 ![the Logistic Regression Model to Predict the Placement Status of Student](o11.png)
 
 Predicting output from Regression Model: 
-
 ![the Logistic Regression Model to Predict the Placement Status of Student](o12.png)
 
 ## Result:
